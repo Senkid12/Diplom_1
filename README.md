@@ -6,9 +6,12 @@ Java11, JUnit4, Maven, Jacoco, Mockito
 
 #### **Как запустить**
 
+``` shell 
 mvn clean test
+```
+``` shell 
 mvn verify
-
+```
 ## **Техническое задание**
 
 ### **Покрыть тестами классы:**
